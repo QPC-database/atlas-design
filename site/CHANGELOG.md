@@ -1,5 +1,11 @@
 # @microsoft/atlas-site
 
+## 0.7.0
+
+### Minor Changes
+
+- 05fceca: Add documentation for spacing.
+
 ## 0.6.1
 
 ### Patch Changes
